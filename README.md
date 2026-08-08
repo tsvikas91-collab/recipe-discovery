@@ -1,7 +1,5 @@
 # Recipe Discovery & Search System
 
-A Phase 1 React application for discovering and searching recipes dynamically using TheMealDB API.
-
 ## Features
 
 - React + Vite
